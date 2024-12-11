@@ -1,0 +1,7 @@
+  REACT_APP_API_KEY=AIzaSyD_4TQYqH_IXl_xLVLxxl3pxdAwQ-HqqEM
+  REACT_APP_AUTH_DOMAIN=ppsiprojectakhir.firebaseapp.com
+  REACT_APP_DATABASE_URL=https://ppsiprojectakhir-default-rtdb.firebaseio.com
+  REACT_APP_PROJECT_ID=ppsiprojectakhir
+  REACT_APP_STORAGE_BUCKET=ppsiprojectakhir.appspot.com
+  REACT_APP_MESSAGING_SENDER_ID=601938852857
+  REACT_APP_APP_ID=1:601938852857:web:a5857e3d58748268fc5b28
